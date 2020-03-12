@@ -1,5 +1,13 @@
 # ncmb_unity
 
+## [4.0.1] - 2019-07-18
+
+### 変更点
+- [#138](https://github.com/NIFCLOUD-mbaas/ncmb_unity/pull/138) 匿名会員認証の機能を追加
+- [#141](https://github.com/NIFCLOUD-mbaas/ncmb_unity/issues/141) Android 28を対応
+- [#140](https://github.com/NIFCLOUD-mbaas/ncmb_unity/pull/140) Unity 2019対応： 'WWW' is obsolete警告を削除
+- FIX [#143](https://github.com/NIFCLOUD-mbaas/ncmb_unity/issues/143) ログイン中のユーザを更新すると以降リクエストエラーになる不具合修正
+
 ## [4.0.0] - 2018-09-04
 
 ### 変更点

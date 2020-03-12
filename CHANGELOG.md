@@ -1,5 +1,13 @@
 # ncmb_unity
 
+## [4.0.3] - 2019-10-17
+
+### 変更点
+- FIX [#158](https://github.com/NIFCLOUD-mbaas/ncmb_unity/issues/158) ログイン後に他のユーザを削除する際、CurrentUserがnullになります
+- FIX [#150](https://github.com/NIFCLOUD-mbaas/ncmb_unity/issues/150) 4.0.1/セッション切れなどのケースでResponseDataが空文字だと例外で落ちる
+- FIX [#149](https://github.com/NIFCLOUD-mbaas/ncmb_unity/issues/149) 4.0.1/ログインユーザを2回以上更新するとエラー
+- FIX [#143](https://github.com/NIFCLOUD-mbaas/ncmb_unity/issues/143) ログイン中のユーザを更新すると以降リクエストエラーになる
+
 ## [4.0.2] - 2019-09-19
 
 ### 変更点

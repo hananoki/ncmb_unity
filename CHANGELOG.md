@@ -1,5 +1,13 @@
 # ncmb_unity
 
+## [4.0.4] - 2020-01-30
+
+### 変更点
+- FIX [#161](https://github.com/NIFCLOUD-mbaas/ncmb_unity/issues/161) 【SNS認証機能】既に認証して登録した会員で、アプリを再インストールし、再度認証してログインを実施するとcurrentUserがnullになります
+- FIX [#163](https://github.com/NIFCLOUD-mbaas/ncmb_unity/pull/163) iOS SDK 3.0.3リリースと合わせて、リッチプッシュ通知機能で利用しているUIWebviewからWKWebviewへ変更
+
+※ iOSの場合、[Xcodeの追加設定](https://mbaas.nifcloud.com/doc/current/push/richpush_unity.html#Xcodeの追加設定)が必要となります
+
 ## [4.0.3] - 2019-10-17
 
 ### 変更点

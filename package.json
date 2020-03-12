@@ -1,0 +1,11 @@
+{
+    "name": "unitypackage.nifcloud-mbaas.ncmb_unity",
+    "displayName": "ncmb_unity",
+    "category": "Scripting",
+    "description": "ニフクラ mobile backend Unity SDK",
+    "keywords": [
+        ""
+    ],
+    "unity": "2018.3",
+    "version": "4.0.0"
+}

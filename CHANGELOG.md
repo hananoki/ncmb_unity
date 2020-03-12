@@ -1,5 +1,10 @@
 # ncmb_unity
 
+## [4.0.2] - 2019-09-19
+
+### 変更点
+- [#151](https://github.com/NIFCLOUD-mbaas/ncmb_unity/pull/151) iOS13 対応：デバイストークン取得方法の更新
+
 ## [4.0.1] - 2019-07-18
 
 ### 変更点

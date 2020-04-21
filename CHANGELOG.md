@@ -1,5 +1,16 @@
 # ncmb_unity
 
+
+## [4.1.0] - 2020-04-08
+
+### 変更点
+- Prefab、Sceneの導入によるSDK構成にPrefab, Scene新規フォルダ追加
+  - これにより、新規SDKを導入するクイックスタートの手順が更新されました。
+詳細は[クイックスタート](https://mbaas.nifcloud.com/doc/current/introduction/quickstart_unity.html)をご確認ください。
+  - ただし、既存SDKを更新する場合は従来通り、packageインポートから変更はありません。
+  - また導入を簡単にする目的として追加したPrefab, Sceneを利用する必要がなければ、削除していただいて問題ありません。
+- android-push-pluginのライブラリをAndroidX対応
+
 ## [4.0.4] - 2020-01-30
 
 ### 変更点

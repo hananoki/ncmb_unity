@@ -1,5 +1,14 @@
 # ncmb_unity
 
+## [4.3.0] - 2020-09-30
+
+### 変更点
+- UnityPlayerProxyActivity の非推奨対応
+- 会員管理機能のPrefab、Sceneの導入によりMemberフォルダの追加
+  - これにより、[会員管理の基本的な使い方](https://mbaas.nifcloud.com/doc/current/user/basic_usage_unity.html#%E6%A9%9F%E8%83%BD%E5%B0%8E%E5%85%A5%E6%B8%88%E3%81%BFScene%E3%81%A8Prefab)の手順が更新されました。
+詳細は会員管理の基本的な使い方をご確認ください。
+  - ただし、既存SDKを更新する場合は従来通り、packageインポートから変更はありません。
+  - また導入を簡単にする目的として追加したPrefab, Sceneを利用する必要がなければ、削除していただいて問題ありません。
 ## [4.2.0] - 2020-05-19
 
 ### 変更点
